@@ -3408,12 +3408,16 @@ img.u-pull-left {
 }
 
 .about-info__pic {
+    -webkit-filter: grayscale(80%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(80%);
     opacity: 0.5;
     object-fit     : cover;
     margin         : 0;
     vertical-align : bottom;
 }
 .about-info__pic:hover {
+    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
     opacity: 0.5;
     object-fit     : cover;
     margin         : 0;
