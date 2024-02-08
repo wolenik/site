@@ -1,3 +1,11 @@
+My Personal Website
+By Ethan Wolenik
+
+
+
+
+
+CREDIT FOR TEMPLATE
 This site was taken from a template on StyleShout
 I customized most of the text, but the vast majority of the css and js was not changed
 I don't take credit for all of the code, not even 90% of it 
